@@ -1,11 +1,12 @@
 Template code for A04
 ------------
 
-Author: Your name [youremail@email.arizona.edu]
+Author: Athisa Budiman [athisabudimn@arizona.edu]
 Date: April 15, 2023
 
 **PLEASE UPDATE THIS README**
 
+For liberties in regards to the reflection for the rr. I used the DefaulColor in the Scene and attached it to the given pool billboard as an ambient color and used that as the thing to reflect onto the original billboard.
 
 Included files:
 * materials/ -- a folder with one image in 2^n format and one scene with one billboard.
